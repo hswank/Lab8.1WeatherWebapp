@@ -1,0 +1,9 @@
+package com.example.demo.Service;
+
+public class WeatherResponse {
+	private location location;
+	private currentobservation currentOb;
+	private time timeOb;
+	private data dataOb;
+	
+}
